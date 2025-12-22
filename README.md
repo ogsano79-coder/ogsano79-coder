@@ -16,3 +16,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogsano79-coder&show_icons=true&locale=en" alt="ogsano79-coder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogsano79-coder&" alt="ogsano79-coder" /></p>
+
+## GitHub Snake Animation
+
+ 
+
+![snake animation](https://raw.githubusercontent.com/besyildiz/snk/output/github-contribution-grid-snake-dark.svg)
